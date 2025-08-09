@@ -1,6 +1,7 @@
 # 🗳️ 정치적 성향 테스트 (Political Compass Test)
 
 당신의 정치적 좌표를 2차원 평면에서 확인해보세요!
+https://waterfirst.github.io/Political_Compass/
 
 ## 📖 프로젝트 소개
 
